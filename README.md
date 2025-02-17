@@ -10,7 +10,7 @@
 
 ---
 
-<h3 align="center">Contact</h3>
+<h3 align="center" style="color: #7B68EE;">Contact</h3>
 
 <p align="center">
   <a href="mailto:tjddks9382@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-c14438.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
@@ -18,7 +18,7 @@
   <a href="https://github.com/HolySSA" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
-<h3 align="center">Languages & Skills</h3>
+<h3 align="center" style="color: #7B68EE;">Languages & Skills</h3>
 
 <p>
   <h4 align="center">Programming Languages</h4>
@@ -58,6 +58,7 @@
     <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
     <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white">
+    <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white">
   </p>
 </p>
 

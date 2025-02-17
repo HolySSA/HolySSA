@@ -48,6 +48,6 @@
 </p>
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img height=200 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdfk12" />
+  <img height=200 align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdfk12" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HolySSA&layout=compact&theme=tokyonight" />
 </div>

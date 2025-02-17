@@ -50,3 +50,7 @@
 <div align="center">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HolySSA&layout=compact&theme=tokyonight" />
 </div>
+
+<div align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdfk12" />
+</div>

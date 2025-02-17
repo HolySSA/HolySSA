@@ -18,7 +18,7 @@
 
 ### Languages & Skills
 
-<p align="center">
+<p>
   <h4 align="center">Programming Languages</h4>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white">

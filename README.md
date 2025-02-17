@@ -10,9 +10,7 @@
 
 ---
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1&pause=99999&color=7B68EE&center=true&vCenter=true&repeat=false&width=100&height=25&lines=Contact" alt="Contact" />
-</h3>
+<h3 align="center"><font color="#7B68EE">Contact</font></h3>
 
 <p align="center">
   <a href="mailto:tjddks9382@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-c14438.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
@@ -20,9 +18,7 @@
   <a href="https://github.com/HolySSA" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1&pause=99999&color=7B68EE&center=true&vCenter=true&repeat=false&width=200&height=25&lines=Languages+%26+Skills" alt="Languages & Skills" />
-</h3>
+<h3 align="center"><font color="#7B68EE">Languages & Skills</font></h3>
 
 <p>
   <h4 align="center">Programming Languages</h4>

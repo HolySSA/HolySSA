@@ -47,10 +47,7 @@
   <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white">
 </p>
 
-<div align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HolySSA&layout=compact&theme=tokyonight" />
-</div>
-
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdfk12" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HolySSA&layout=compact&theme=tokyonight" />
 </div>

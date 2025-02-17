@@ -28,6 +28,7 @@
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white">
   <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white">
+  <img alt="Protocol Buffers" src="https://img.shields.io/badge/Protocol%20Buffers-4285F4?style=flat-square&logo=google&logoColor=white">
   
   <h4 align="center">Databases</h4>
   <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">

@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Welcome%20to%0AHoly's%20Github&fontSize=45&animation=fadeIn&fontColor=d6ace6&desc=&descAlignY=65&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Welcome%20to&desc=Holy's%20Github&fontSize=45&animation=fadeIn&fontColor=9775fa&descSize=45&descAlignY=65&descAlign=62&descColor=f783ac)
 
 <!--
 **HolySSA/HolySSA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

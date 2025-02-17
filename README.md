@@ -1,6 +1,10 @@
+<div align="center">
+  
 # Holy's Github 👋
-
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=7B68EE&center=true&vCenter=true&random=false&width=435&lines=Backend+Developer;Always+Learning)](https://git.io/typing-svg)
+
+</div>
 
 - :globe_with_meridians: Korean
 - :alarm_clock: Active Time 「EveryTime」
